@@ -45,6 +45,4 @@ function renderMain(arr) {
     }
     document.querySelector("main").innerHTML = mainHTML;
 }
-
-
-
+window.Search = Search;
